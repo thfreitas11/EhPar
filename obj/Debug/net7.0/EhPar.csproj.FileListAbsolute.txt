@@ -1,0 +1,15 @@
+C:\Users\thiag\Documents\DotNet Developer\Projetos\EhPar\bin\Debug\net7.0\EhPar.exe
+C:\Users\thiag\Documents\DotNet Developer\Projetos\EhPar\bin\Debug\net7.0\EhPar.deps.json
+C:\Users\thiag\Documents\DotNet Developer\Projetos\EhPar\bin\Debug\net7.0\EhPar.runtimeconfig.json
+C:\Users\thiag\Documents\DotNet Developer\Projetos\EhPar\bin\Debug\net7.0\EhPar.dll
+C:\Users\thiag\Documents\DotNet Developer\Projetos\EhPar\bin\Debug\net7.0\EhPar.pdb
+C:\Users\thiag\Documents\DotNet Developer\Projetos\EhPar\obj\Debug\net7.0\EhPar.csproj.AssemblyReference.cache
+C:\Users\thiag\Documents\DotNet Developer\Projetos\EhPar\obj\Debug\net7.0\EhPar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Documents\DotNet Developer\Projetos\EhPar\obj\Debug\net7.0\EhPar.AssemblyInfoInputs.cache
+C:\Users\thiag\Documents\DotNet Developer\Projetos\EhPar\obj\Debug\net7.0\EhPar.AssemblyInfo.cs
+C:\Users\thiag\Documents\DotNet Developer\Projetos\EhPar\obj\Debug\net7.0\EhPar.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Documents\DotNet Developer\Projetos\EhPar\obj\Debug\net7.0\EhPar.dll
+C:\Users\thiag\Documents\DotNet Developer\Projetos\EhPar\obj\Debug\net7.0\refint\EhPar.dll
+C:\Users\thiag\Documents\DotNet Developer\Projetos\EhPar\obj\Debug\net7.0\EhPar.pdb
+C:\Users\thiag\Documents\DotNet Developer\Projetos\EhPar\obj\Debug\net7.0\EhPar.genruntimeconfig.cache
+C:\Users\thiag\Documents\DotNet Developer\Projetos\EhPar\obj\Debug\net7.0\ref\EhPar.dll
